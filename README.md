@@ -2,5 +2,8 @@
 
 Add/Remove Products to and from Cart using Context
 
-```npm install```
- ```npm start```
+1. Run ```npm install```
+
+2.  ```npm start```
+
+3. Test on http://localhost:3000/
