@@ -2,6 +2,5 @@
 
 Add/Remove Products to and from Cart using Context
 
-```npm install
-    npm start
-```
+```npm install```
+ ```npm start```
